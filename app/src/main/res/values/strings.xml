@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">SmartGate</string>
+    <string name="nav_drawer_open">Open Navigation</string>
+    <string name="nav_drawer_close">Close Navigation</string>
+    <string name="notice_title">Title</string>
+    <string name="notice_description">Description</string>
+    <string name="notice_date">Date</string>
+    <string name="label_Notice">Notice</string>
+    <string name="label_ViewAll">ViewAll</string>
+
+    <string name="label_Event">Event</string>
+    <string name="label_Complaint">Complaints</string>
+    <string name="event_title">Title</string>
+    <string name="event_budget">Budget:-</string>
+    <string name="event_sdate">Start Date</string>
+    <string name="event_edate">End Date</string>
+    <string name="complaint_title">Title</string>
+    <string name="complaint_description">Issue:-</string>
+    <string name="complaint_status">Status:-</string>
+    <string name="btn_MemberLogin">Member Login</string>
+    <string name="btn_AdminLogin">Admin Login</string>
+    <string name="btn_SecurityLogin">Security Login</string>
+    <string name="btn_Login">Login</string>
+
+
+</resources>
